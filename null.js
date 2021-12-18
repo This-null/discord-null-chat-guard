@@ -29,7 +29,7 @@ client.on('message', function() {
 
 const acarkre = require('acarkre');
 acarkre(client, {
- konsolBilgi: true,
+ konsolBilgi: false,
  küfürEngel: true,
  reklamEngel: true,
  uyarıMesajı: false, 
