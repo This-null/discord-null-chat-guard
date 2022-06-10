@@ -1,7 +1,11 @@
 # null Chat
 
-###### V12 Boş altyapı üzerine kurulmuş chat botu kafanıza göre takılın
+- Soru ve bot hakkında sorunlar için:  `null#4000`
+- Kaynak Sunucusu: https://discord.com/invite/zN5hjyCBJR
 
-<h1 align="center"> Discord <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/769979665224958020?hideDiscrim=true)](https://discord.com/users/769979665224958020)
+# Bilgilendirme
+
+```bash
+> Boş v12 altyapıya göre uyarlanmış chat guard modülü.
+```
